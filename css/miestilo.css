@@ -1,0 +1,26 @@
+header img{
+	width: 100%;
+	margin-top: 3px;
+	border-radius: 6px;
+}
+h1{
+	color:blue;
+}
+h4{
+	color:brown;
+}
+
+p{
+	text-align: justify;
+}
+
+.footer{
+	background-color: gray;
+	height: 100px;
+	width: 100%;
+	padding-left: 400px;
+	color: #fff;
+	padding-top: 25px;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+}
