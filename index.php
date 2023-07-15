@@ -13,7 +13,7 @@ include 'arriba.php';
 
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td><h1>CMS Sencillo: Mi Blog</h1></td>
+    <td><h1>Mi Blog</h1></td>
     <td> <h6><a href="admin/index.php">Acceso administrativo</a></h6></td>
   </tr>
 </table>
